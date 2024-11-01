@@ -1,0 +1,28 @@
+{
+     "usuarios": [
+          {
+               "nombre_completo": "Anderson Perdomo",
+               "cedula": "30.170.300",
+               "usuario_banco": "andper",
+               "clave_usuario_banco": 456,
+               "saldo_Bs": 10020000.0,
+               "tipo_de_cuenta": "ahorro"
+          },
+          {
+               "nombre_completo": "Lue Aparicio",
+               "cedula": "31.000.000",
+               "usuario_banco": "lueap",
+               "clave_usuario_banco": 789,
+               "saldo_Bs": 41000.0,
+               "tipo_de_cuenta": "corriente"
+          },
+          {
+               "nombre_completo": "Gerson Zambrano",
+               "cedula": "28.404.650",
+               "usuario_banco": "gszs10",
+               "clave_usuario_banco": 211100,
+               "saldo_Bs": 200000.0,
+               "tipo_de_cuenta": "ahorro"
+          }
+     ]
+}

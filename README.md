@@ -55,10 +55,18 @@ Para añadir datos al archivo CSV en GitHub mediante un script automatizado en P
 * Como función extra creamos un código para una página de Streamlit(APP.PY), para mostrar los datos y las funcionalidades del código en una página Web
 
 
-5. [Funcionalidades](#Funcionalidades)
-6. [Estado del proyecto](#EstadoDelProyecto)
-7. [Agradecimientos](#Agradecimientos)
+5. Funcionalidades:
+* visualizar en una tabla los datos de los jugadores de LaLiga y ls Bundesliga
+* Ver gráficas del aumento del valor de mercado de los jugadores
+* comparación entre el valor de mercado de dos jugadores y su progreso
+* Analizar y visualizar el valor de mercado de los jugadores
+* Evaluar el incremento porcentual del valor de mercado a lo largo del tiempo
+* Identificar patrones y tendencias en la valoración de jugadores
+7. Estado del proyecto:(listo)
+  en funcionamiento
 
+8. Agradecimientos
+Queremos agradecer a nuestros tutores (Prof. Jenny Remolina y Álvaro Arauz) por guíarnos y enseñarnos los principios del lenguaje de programación Python, por su constancia, esfuerzo y dedicación para corregirnos y estar atentos a aclarar nuestras dudas e inquietudes. Agradecer también a nuestros compañeros que han sido parte de nuestro trayecto en esaa primera parte del módulo de python. 
 
 * Nombre del proyecto
 ANÁLISIS DE LAS ESTADÍSTICAS QUE TIENEN MAYOR CORRELACIÓN CON EL VALOR DE MERCADO DE LOS JUGADORES DE FUTBOL

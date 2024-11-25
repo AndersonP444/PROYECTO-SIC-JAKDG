@@ -62,8 +62,8 @@ Para añadir datos al archivo CSV en GitHub mediante un script automatizado en P
 * Analizar y visualizar el valor de mercado de los jugadores
 * Evaluar el incremento porcentual del valor de mercado a lo largo del tiempo
 * Identificar patrones y tendencias en la valoración de jugadores
-7. Estado del proyecto:(listo)
-  en funcionamiento
+7. Estado del proyecto:
+En desarrollo
 
 8. Agradecimientos
 Queremos agradecer a nuestros tutores (Prof. Jenny Remolina y Álvaro Arauz) por guíarnos y enseñarnos los principios del lenguaje de programación Python, por su constancia, esfuerzo y dedicación para corregirnos y estar atentos a aclarar nuestras dudas e inquietudes. Agradecer también a nuestros compañeros que han sido parte de nuestro trayecto en esaa primera parte del módulo de python. 

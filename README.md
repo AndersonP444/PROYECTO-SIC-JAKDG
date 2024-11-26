@@ -101,7 +101,16 @@ Creamos DataFrame y lo mostramos en una tabla html
 * Funcionalidades extra:
 
 Ejem 1: Integración del proyecto en una pág web
-- Tecnología/Herramientas usadas …
+- Tecnología/Herramientas usadas
+  
+TECNOLOGÍAS PRINCIPALES:
+1. Python
+2. Pandas
+3. Streamlit
+4. Plotly
+5. Google Colab
+6. Jupiter Notebook
+
 - Arquitectura (img)
 
 Ejem 3: Integración del proyecto en un canal WhatsApp, Discord, Telegram, Correo, …

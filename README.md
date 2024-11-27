@@ -92,7 +92,10 @@ Primeramente instalamos librerias necesarias la cuales son las mencionadas anter
 Creamos DataFrame y lo mostramos en una tabla html 
 -Fuente del dataset
 
--Limpieza de datos (img que lo valide)
+-Limpieza de datos 
+la tabla de laliga mostraba una columna de segunda nacionalidad (https://github.com/AndersonP444/PROYECTO-SIC-JAKDG/blob/main/IMAGENES/procesamiento%20de%20datos%20(1).jpeg)
+creamos el siguiente codigo para depurar dicha columna con toda su información (https://github.com/AndersonP444/PROYECTO-SIC-JAKDG/blob/main/IMAGENES/procesamiento%20de%20datos%20(2).jpeg)
+resultado (https://github.com/AndersonP444/PROYECTO-SIC-JAKDG/blob/main/IMAGENES/procesamiento%20de%20datos%20(3).jpeg)
 
 -Manejo excepciones/control errores
 

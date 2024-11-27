@@ -111,7 +111,7 @@ TECNOLOGÍAS PRINCIPALES:
 5. Google Colab
 6. Jupiter Notebook
 
-- Arquitectura (img)
+- Arquitectura (https://github.com/AndersonP444/PROYECTO-SIC-JAKDG/blob/main/IMAGENES/code_image.png)
 
 Ejem 3: Integración del proyecto en un canal WhatsApp, Discord, Telegram, Correo, …
 - Tecnología/Herramientas usadas …

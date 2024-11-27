@@ -107,16 +107,21 @@ Creamos DataFrame y lo mostramos en una tabla html
 -Manejo excepciones/control errores
 
 -Estadísticos (Valores, gráficos, …)
+
 Gráficas:
-* Evolucion Indivudual del Valor de mercado-LaLiga(https://github.com/AndersonP444/PROYECTO-SIC-JAKDG/blob/main/IMAGENES/GRAFICAS%20(3).jpeg)
-* Comparación entre jugadores-LaLiga(https://github.com/AndersonP444/PROYECTO-SIC-JAKDG/blob/main/IMAGENES/GRAFICAS%20(6).jpeg)
-* Evolución Individual del Valor de mercado-Bundesliga(https://github.com/AndersonP444/PROYECTO-SIC-JAKDG/blob/main/IMAGENES/GRAFICAS%20(2).jpeg)
-* Comparación entre jugadores-Bundesliga(https://github.com/AndersonP444/PROYECTO-SIC-JAKDG/blob/main/IMAGENES/GRAFICAS%20(1).jpeg)
-* Comparativa individual de jugadores (https://github.com/AndersonP444/PROYECTO-SIC-JAKDG/blob/main/IMAGENES/GRAFICAS%20(7).jpeg)
-* Análisis comparativos: LaLiga vs Bundesliga.
+1. Evolucion Indivudual del Valor de mercado-LaLiga(https://github.com/AndersonP444/PROYECTO-SIC-JAKDG/blob/main/IMAGENES/GRAFICAS%20(3).jpeg)
+2. Comparación entre jugadores-LaLiga(https://github.com/AndersonP444/PROYECTO-SIC-JAKDG/blob/main/IMAGENES/GRAFICAS%20(6).jpeg)
+3. Evolución Individual del Valor de mercado-Bundesliga(https://github.com/AndersonP444/PROYECTO-SIC-JAKDG/blob/main/IMAGENES/GRAFICAS%20(2).jpeg)
+4. Comparación entre jugadores-Bundesliga(https://github.com/AndersonP444/PROYECTO-SIC-JAKDG/blob/main/IMAGENES/GRAFICAS%20(1).jpeg)
+5. Comparativa individual de jugadores (https://github.com/AndersonP444/PROYECTO-SIC-JAKDG/blob/main/IMAGENES/GRAFICAS%20(7).jpeg)
+5. Análisis comparativos: LaLiga vs Bundesliga.
   Distribución General de Valores de Mercado(https://github.com/AndersonP444/PROYECTO-SIC-JAKDG/blob/main/IMAGENES/GRAFICAS%20(8).jpeg)
   Comparación de Valores: (https://github.com/AndersonP444/PROYECTO-SIC-JAKDG/blob/main/IMAGENES/GRAFICAS%20(4).jpeg)
   Variación Porcentual del Valor de Mercado(https://github.com/AndersonP444/PROYECTO-SIC-JAKDG/blob/main/IMAGENES/GRAFICAS%20(5).jpeg)
+
+Tablas LaLiga-Bundesliga:
+(https://github.com/AndersonP444/PROYECTO-SIC-JAKDG/blob/main/IMAGENES/TABLAS-_LALIGA_-_BUNDESLIGA_-.gif)
+
 
 * Funcionalidades extra:
 

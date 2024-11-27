@@ -100,6 +100,10 @@ Creamos DataFrame y lo mostramos en una tabla html
 
 3. Resultado (https://github.com/AndersonP444/PROYECTO-SIC-JAKDG/blob/main/IMAGENES/procesamiento%20de%20datos%20(1).jpeg)
 
+4. Al imprimir las tablas en la pagina web notamos que habian datos NaN en algunos jugadores (https://github.com/AndersonP444/PROYECTO-SIC-JAKDG/blob/main/IMAGENES/procesamiento%20de%20datos%202.jpeg)
+
+5. Creamos un codigo para eliminar esos jugadores que tenian datos NaN mediante su indice (https://github.com/AndersonP444/PROYECTO-SIC-JAKDG/blob/main/IMAGENES/procesamiento%20de%20datos%202.png)
+
 -Manejo excepciones/control errores
 
 -Estadísticos (Valores, gráficos, …)

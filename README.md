@@ -94,7 +94,7 @@ Creamos DataFrame y lo mostramos en una tabla html
 
 -Limpieza de datos 
 
-*La tabla de laliga mostraba una columna de segunda nacionalidad (https://github.com/AndersonP444/PROYECTO-SIC-JAKDG/blob/main/IMAGENES/procesamiento%20de%20datos%20(1).jpeg).
+*La tabla de laliga mostraba una columna de segunda nacionalidad ([https://github.com/AndersonP444/PROYECTO-SIC-JAKDG/blob/main/IMAGENES/procesamiento%20de%20datos%20(1).jpeg](https://github.com/AndersonP444/PROYECTO-SIC-JAKDG/blob/main/IMAGENES/procesamiento%20de%20datos%20(3).jpeg)).
 
 *creamos el siguiente codigo para depurar dicha columna con toda su información (https://github.com/AndersonP444/PROYECTO-SIC-JAKDG/blob/main/IMAGENES/procesamiento%20de%20datos%20(2).jpeg)
 

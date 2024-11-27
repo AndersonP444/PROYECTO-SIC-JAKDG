@@ -72,7 +72,7 @@ Queremos agradecer a nuestros tutores (Prof. Jenny Remolina y Álvaro Arauz) por
 ANÁLISIS DE LAS ESTADÍSTICAS QUE TIENEN MAYOR CORRELACIÓN CON EL VALOR DE MERCADO DE LOS JUGADORES DE FUTBOL
 * Breve descripción del proyecto -> Alguna imagen o gif que muestre el proyecto
 
-* Arquitectura del proyecto + imagen
+* Arquitectura del proyecto (https://github.com/AndersonP444/PROYECTO-SIC-JAKDG/blob/main/IMAGENES/code2pdf_67469c65bdcff.pdf)
 1. Librería resquests
 2. Librería beautifulsoup4 
 3. Libreria pandas 

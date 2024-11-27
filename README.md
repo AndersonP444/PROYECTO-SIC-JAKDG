@@ -100,7 +100,7 @@ Creamos DataFrame y lo mostramos en una tabla html
 
 * Funcionalidades extra:
 
-Ejem 1: Integración del proyecto en una pág web
+Integración del proyecto en una pág web
 - Tecnología/Herramientas usadas
   
 TECNOLOGÍAS PRINCIPALES:
@@ -113,14 +113,4 @@ TECNOLOGÍAS PRINCIPALES:
 
 - Arquitectura (https://github.com/AndersonP444/PROYECTO-SIC-JAKDG/blob/main/IMAGENES/code_image.png)
 
-Ejem 3: Integración del proyecto en un canal WhatsApp, Discord, Telegram, Correo, …
-- Tecnología/Herramientas usadas …
-- Arquitectura (img)
-
-Ejem 4: Desarrollo de interfaz gráfica de usuario
-- Tecnología/Herramientas usadas …
-- Arquitectura (img)
-
-Ejem …: …
-- Tecnología/Herramientas usadas …
 

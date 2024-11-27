@@ -110,7 +110,8 @@ Creamos DataFrame y lo mostramos en una tabla html
 
 * Funcionalidades extra:
 
-Integración del proyecto en una pág web
+Integración del proyecto en una pág web.
+
 TECNOLOGÍAS PRINCIPALES:
 1. Python
 2. Pandas
